@@ -23,7 +23,7 @@ public class PrisonManagementApp extends JFrame {
     // database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/PrisonManagementSystem?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "Aymen@30";
+    private static final String DB_PASSWORD = "yourpassword";
 
     // all table names in our database
     private final String[] TABLES = {
